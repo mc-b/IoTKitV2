@@ -10,7 +10,7 @@ Allzweckeingabe/-ausgabe (engl. GPIO - General Purpose Input/Output) ist ein all
 
 Mittels folgender Grundklassen kann den GPIO Pins ein Zweck vorgegeben werden:
 
-* [DigitalOut](gpio/DigitalOut/README.md)
-* [DigitalIn](gpio/DigitalIn/README.md) und [DigitalInBoard](gpio/DigitalInBoard/README.md)
-* [AnalogIn](gpio/AnalogIn/README.md)
-* [PwmOut](gpio/PwmOut/README.md) und [PwmOutPeriod](gpio/PwmOutPeriod/README.md)
+* [DigitalOut](gpio/DigitalOut/)
+* [DigitalIn](gpio/DigitalIn/) und [DigitalInBoard](gpio/DigitalInBoard/)
+* [AnalogIn](gpio/AnalogIn/)
+* [PwmOut](gpio/PwmOut/) und [PwmOutPeriod](gpio/PwmOutPeriod/)
