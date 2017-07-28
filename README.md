@@ -5,8 +5,9 @@ IoTKit V2 Beispiele und Dokumentation
 
 ## Grundlagen
 
-* [GPIO](gpio/README.md)
-* [Sensoren](sensors/README.md)
+* [GPIO](gpio/)
+* [Sensoren](sensors/)
+* [Aktoren](actors/)
 
 ## Anwendungen
 
