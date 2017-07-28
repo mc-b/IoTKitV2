@@ -9,5 +9,10 @@ IoTKit V2 Beispiele und Dokumentation
 * [Sensoren](sensors/)
 * [Aktoren](actors/)
 
+## Internet (Ethernet)
+
+* [Ethernet Anbindung](eth/)
+
+
 ## Anwendungen
 
