@@ -1,7 +1,7 @@
 IoTKitV2
 ========
 
-IoTKit V2 Beispiele und Dokumenation
+IoTKit V2 Beispiele und Dokumentation
 
 
 ## GPIO
@@ -13,4 +13,4 @@ Mittels folgender Grundklassen kann den GPIO Pins ein Zweck vorgegeben werden:
 * [DigitalOut](gpio/DigitalOut/README.md)
 * [DigitalIn](gpio/DigitalIn/README.md) und [DigitalInBoard](gpio/DigitalInBoard/README.md)
 * [AnalogIn](gpio/AnalogIn/README.md)
-* [PwmOut](gpio/DigitalOut/PwmOut.md) und [PwmOutPeriod](gpio/DigitalOut/PwmOutPeriod.md)
+* [PwmOut](gpio/PwmOut/README.md) und [PwmOutPeriod](gpio/PwmOutPeriod/README.md)
