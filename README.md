@@ -9,9 +9,18 @@ IoTKit V2 Beispiele und Dokumentation
 * [Sensoren](sensors/)
 * [Aktoren](actors/)
 
-## Internet (Ethernet)
+## Bus Systeme
+
+* [UART](uart/)
+* [I²C/TWI](i2c/)
+* [SPI](spi/)
+
+## Internet 
 
 * [Ethernet Anbindung](eth/)
+
+### Internet Protokolle
+
 
 
 ## Anwendungen
