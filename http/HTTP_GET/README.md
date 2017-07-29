@@ -15,14 +15,14 @@ HTTP GET ist die gebräuchlichste Methode. Mit ihr wird eine Ressource (zum Beis
 **Argumentübertragung**
 
 ```js
-                               
-http://10.2.200.116/led2/write?val=1```
+http://<ip-board>/led2/write?val=1
+```
 
 Argumente-Wertepaare werden durch das Zeichen ? eingeleitet. Die jeweiligen Wertepaare sind in der Form Argument=Wert aufgebaut und durch &amp; voneinander getrennt.
 
 #### [Serverseite](cgi-bin/rest.txt) 
 
-Der HTTP GET Aufruf dient zum Abfragen von Daten. Der Pfad hinter http://iot-stick/rest/cgi-bin/rest definiert welche Daten gewünscht sind.
+Der HTTP GET Aufruf dient zum Abfragen von Daten. Der Pfad hinter http://<webserver>/cgi-bin/rest definiert welche Daten gewünscht sind.
 
 In unserem Beispiel werden folgende Pfade unterstützt:
 

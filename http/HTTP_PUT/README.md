@@ -15,4 +15,4 @@ HTTP PUT dient dazu eine Ressource (zum Beispiel eine Datei) auf einen Webserver
 
 #### [Serverseite](../HTTP_GET/cgi-bin/rest.txt) 
 
-Es wird eine neue Datei mit dem Namen hinter rest? im Verzeichnis /var/www/html/data erstellt. Abrufbar mittels [http://iot-stick/rest/data/](http://iot-stick/rest/data/)
+Es wird eine neue Datei mit dem Namen hinter rest? im Verzeichnis /var/www/html/data erstellt. Abrufbar mittels http://<webserver>/data/.
