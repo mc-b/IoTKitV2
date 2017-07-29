@@ -22,7 +22,7 @@ Argumente-Wertepaare werden durch das Zeichen ? eingeleitet. Die jeweiligen Wert
 
 #### [Serverseite](cgi-bin/rest.txt) 
 
-Der HTTP GET Aufruf dient zum Abfragen von Daten. Der Pfad hinter http://<webserver>/cgi-bin/rest definiert welche Daten gewünscht sind.
+Der HTTP GET Aufruf dient zum Abfragen von Daten. Der Pfad hinter `http://<webserver>/cgi-bin/rest` definiert welche Daten gewünscht sind.
 
 In unserem Beispiel werden folgende Pfade unterstützt:
 
