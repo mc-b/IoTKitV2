@@ -62,5 +62,5 @@ Als Serverseite kann das CGI-Script [rest](HTTP_GET/cgi-bin/rest.txt) verwendet 
 
 ### Beispiele (ab mbed OS V5.x)
 
-
+* [HTTP and HTTPS on developer.mbed.org](https://developer.mbed.org/teams/sandbox/code/http-example/)
 
