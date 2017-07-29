@@ -19,3 +19,10 @@ TCP (Stream) Sockets erlauben auch eine Kommunikation zwischen mbed Board&#039;s
 *   bearbeiten der Client-Anfrage auf dem neuen Client-Socket
 *   Client-Socket wieder schließen.
 
+#### Client-seitig: 
+
+*   Socket erstellen
+*   erstellten Socket mit der Server-Adresse verbinden, von welcher Daten angefordert werden sollen 
+*   senden und empfangen von Daten
+*   evtl. Socket herunterfahren (shutdown())
+*   Verbindung trennen, Socket schließen
