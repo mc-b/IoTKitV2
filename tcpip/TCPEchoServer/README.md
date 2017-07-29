@@ -1,0 +1,21 @@
+##  TCP (Stream) Socket Client / Server
+
+![](../../images/TCPSocket.png) 
+
+Ablauf TCP Socket Kommunikation
+
+- - -
+
+TCP (Stream) Sockets erlauben auch eine Kommunikation zwischen mbed Board&#039;s.
+
+### Ablauf der Socket Kommunikation 
+
+#### Serverseitig: 
+
+*   Server-Socket erstellen
+*   binden des Sockets an eine Adresse (Port), über welche Anfragen akzeptiert werden
+*   auf Anfragen warten
+*   Anfrage akzeptieren und damit ein neues Socket-Paar für diesen Client erstellen
+*   bearbeiten der Client-Anfrage auf dem neuen Client-Socket
+*   Client-Socket wieder schließen.
+

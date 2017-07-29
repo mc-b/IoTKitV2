@@ -21,7 +21,7 @@ IoTKit V2 Beispiele und Dokumentation
 
 ### Internet Protokolle
 
-* [Sockets (TCP/UDP](tcpip/)
+* [Sockets (TCP/UDP)](tcpip/)
 * [HTTP](http/)
 * [MQTT](mqtt/)
 * [CoAP](coap/)
