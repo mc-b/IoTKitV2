@@ -5,6 +5,8 @@ IoTKit V2 Beispiele und Dokumentation
 
 ## Grundlagen
 
+* [Hardware](hw/)
+* [Software](sw/)
 * [GPIO](gpio/)
 * [Sensoren](sensors/)
 * [Aktoren](actors/)
