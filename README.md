@@ -1,6 +1,10 @@
 IoTKitV2
 ========
 
+![](images/shield.png)
+
+- - -
+
 IoTKit V2 Beispiele und Dokumentation
 
 ## Grundlagen
