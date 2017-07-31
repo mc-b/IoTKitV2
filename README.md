@@ -34,8 +34,8 @@ IoTKit V2 Beispiele und Dokumentation
 
 ## Anwendungen
 
-* Einbindung von Cloud Diensten wie IFTTT, Yahoo Weather
-* IoT und Big Data
+* [Cloud Dienste](cloud/) wie IFTTT, Yahoo Weather
+* [IoT und Big Data](bigdata/)
 * Smart Home
 * Industrie Gateway
 * Wearables
