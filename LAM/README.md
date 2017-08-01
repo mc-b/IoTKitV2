@@ -13,7 +13,7 @@ Dazu machen wir den LAM Server (bzw. Apache) [REST](http://de.wikipedia.org/wiki
 * [Apache HTTP (Web) Server](02-Apache.md)
 * [HTTP (Hypertext Transfer Protocol)](03-HTTP.md)
 * [REST (Representational State Transfer)](04-REST.md)
-* [REST Serverseite: CGI Script](CGIScript.md)
+* [REST Serverseite: CGI Script](05-CGIScript.md)
 * [REST Serverseite: Daten in SQL Datenbank schreiben](31-Database.md)
 * [REST Client: cURL](32-cURL.md)
 * [REST Client: mbed Sensoren]()

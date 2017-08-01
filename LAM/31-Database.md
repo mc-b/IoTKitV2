@@ -138,7 +138,7 @@ Abfragen im Browser mittels:
 	fi
 
 
-### Links {#links}
+### Links 
 
 *   [MySQL Homepage](http://www.mysql.de/)
 *   [Ubuntu Wiki](http://wiki.ubuntuusers.de/mysql)
