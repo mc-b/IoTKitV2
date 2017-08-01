@@ -34,13 +34,14 @@ IoTKit V2 Beispiele und Dokumentation
 
 ## Anwendungen
 
+* [Einführung in REST mit L(inux)A(pache)M(ySQL) Stack](LAM/)
 * [Cloud Dienste](cloud/) wie IFTTT, Yahoo Weather
-* [IoT und Big Data](bigdata/)
+* [IoT und Big Data](bigdata/) + MySQL Beispiel
 * Smart Home
 * Industrie Gateway
 * Wearables
-* Robotic
-* NFC/RFID
+* Robotic + iotkitrobot Repository
+* NFC/RFID + Lager Beispiel
 * BPMN Systeme wie Camunda und IoT
 
 * IoT Entwicklungsplattformen HW + SW wie PlatformIO, mbed, Raspberry Pi, bbc:microbit
