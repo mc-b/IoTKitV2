@@ -40,8 +40,8 @@ IoTKit V2 Beispiele und Dokumentation
 * [Smart Home](smarthome/)
 * [Industrie V4.0](industrieV4/)
 * [Wearables](wearables/)
-* Robotic + iotkitrobot Repository
-* NFC/RFID + Lager Beispiel
+* [Roboter](roboter/)
+* [NFC / RFID](rfid/)
 * BPMN Systeme wie Camunda und IoT
 
 * IoT Entwicklungsplattformen HW + SW wie PlatformIO, mbed, Raspberry Pi, bbc:microbit
