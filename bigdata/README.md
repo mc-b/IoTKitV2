@@ -1,0 +1,15 @@
+Big Data
+--------
+
+Sind Daten, die die Prozesskapazität von konventionellen Datenbanksystemen aufgrund der Menge, Schnelllebigkeit oder
+inkompatiblen Struktur überschreiten. 
+
+Daten die weit herogener als klassische Daten sind, u.a. durch hinzuziehen auch externer Daten für analytische Aufgaben.
+ 
+Wenn mit Daten das geschlossene Datenuniversum einer Firma aufgesprengt wird um eine globalere Sicht auf das Unternehmen zu erhalten.
+
+### Beispiele 
+
+* [Big Data Projekt und Einführung](https://github.com/mc-b/bigdata)
+* [Thing Speak](HTTP_POST_ThinkSpeak/)
+* [Big Data mit LAM Stack](../LAM/)
