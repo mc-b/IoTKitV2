@@ -35,6 +35,13 @@ Die volle Dokumentation ist auf [PlatformIO](http://docs.platformio.org/en/lates
 
 **ACHTUNG**: die Beispiele sind nur mit dieser Version getestest.
 
+Um die mbedRPC Beispiele compilieren zu können ist die Datei `platformio/packages/framework-mbed/libraries/rpc/RpcClasses.h` wie folgt zu patchen: überflüssigen Methodenaufruf nach read_u16 entfernen:
+
+	117c117
+	<             {"read_u16", rpc_method_caller<unsigned short, RpcAnalogIn, &RpcAnalogIn::read_u16>},
+	---
+	>             //{"read_u16", rpc_method_caller<unsigned short, RpcAnalogIn, &RpcAnalogIn::read_u16>},	
+
 ## Programme compilieren und uploaden
 
 Vor dem ersten Aufruf des Compilier sind die `lib` Unterverzeichnisse nach `<PlatformIO-Installation>/platformio/lib` zu kopieren.
