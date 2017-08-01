@@ -17,3 +17,7 @@ Dazu machen wir den LAM Server (bzw. Apache) [REST](http://de.wikipedia.org/wiki
 * [REST Serverseite: Daten in SQL Datenbank schreiben](31-Database.md)
 * [REST Client: cURL](32-cURL.md)
 * [REST Client: mbed Sensoren](../bigdata/HTTP_POST_Sensoren/)
+
+### Links
+
+* [Internet der Dinge (IoT) für Integratoren](http://iotkit.mc-b.ch/2016-02-02-Digicomp-IoT-Integratoren/)

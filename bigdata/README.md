@@ -14,3 +14,7 @@ Wenn mit Daten das geschlossene Datenuniversum einer Firma aufgesprengt wird um 
 * [Thing Speak](HTTP_POST_ThinkSpeak/)
 * [Big Data mit LAM Stack](../LAM/)
 * [Sensor Daten in MySQL DB schreiben](HTTP_POST_Sensoren/)
+
+### Links
+
+* [Workshop: Das Internet der Dinge erlebt die Welt](http://iotkit.mc-b.ch/2016-06-04-IoTSensoren/)
