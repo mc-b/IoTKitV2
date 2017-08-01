@@ -7,6 +7,7 @@ Unter diesen Begriff fällt sowohl die Vernetzung von Haustechnik und Haushaltsg
 
 * [CH Open Workshoptage 2015](https://developer.mbed.org/teams/ch-open-wstage2015/wiki/SmartHome)
 * [mbed Programm](https://developer.mbed.org/teams/smdiotkit2ch/code/RPCHTTPServerSmartHomeV2/)
+* [Hausautomation und IFTTT](../cloud/HouseAutomation/)
 
 ### Links
 

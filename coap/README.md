@@ -45,3 +45,5 @@ Komplettes Verzeichnis: [OMNA Lightweight M2M (LWM2M) Object & Resource Registry
 
 * [CoAP Example on developer.mbed.org](https://developer.mbed.org/teams/sandbox/code/coap-example/)
 * [Getting started with mbed Client on mbed OS](https://github.com/ARMmbed/mbed-os-example-client)
+* [Building an internet connected lighting system](https://docs.mbed.com/docs/building-an-internet-connected-lighting-system/en/latest/)
+

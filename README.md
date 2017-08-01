@@ -37,9 +37,9 @@ IoTKit V2 Beispiele und Dokumentation
 * [Einführung in REST mit L(inux)A(pache)M(ySQL) Stack](LAM/)
 * [Cloud Dienste](cloud/) wie IFTTT, Yahoo Weather
 * [IoT und Big Data](bigdata/)
-* []Smart Home](smarthome/)
-* Industrie Gateway
-* Wearables
+* [Smart Home](smarthome/)
+* [Industrie V4.0](industrieV4/)
+* [Wearables](wearables/)
 * Robotic + iotkitrobot Repository
 * NFC/RFID + Lager Beispiel
 * BPMN Systeme wie Camunda und IoT
