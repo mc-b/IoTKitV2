@@ -28,7 +28,7 @@ IoTKit V2 Beispiele und Dokumentation
 ### Internet Protokolle
 
 * [Sockets (TCP/UDP)](tcpip/)
-* [HTTP](http/)
+* [HTTP](http/), [mbed RPC](mbedRPC/)
 * [MQTT](mqtt/)
 * [CoAP](coap/)
 
@@ -42,9 +42,3 @@ IoTKit V2 Beispiele und Dokumentation
 * [Wearables](wearables/)
 * [Roboter](roboter/)
 * [NFC / RFID](rfid/)
-* [BPMN und IoT](bpmn/)
-
-### Anhang
-
-* IoT Entwicklungsplattformen HW + SW wie PlatformIO, mbed, Raspberry Pi, bbc:microbit
-* Geschäftsprozesse Innovationen und IoT
