@@ -42,7 +42,9 @@ IoTKit V2 Beispiele und Dokumentation
 * [Wearables](wearables/)
 * [Roboter](roboter/)
 * [NFC / RFID](rfid/)
-* BPMN Systeme wie Camunda und IoT
+* [BPMN und IoT](bpmn/)
+
+### Anhang
 
 * IoT Entwicklungsplattformen HW + SW wie PlatformIO, mbed, Raspberry Pi, bbc:microbit
 * Geschäftsprozesse Innovationen und IoT
