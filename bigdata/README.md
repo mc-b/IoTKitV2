@@ -13,3 +13,4 @@ Wenn mit Daten das geschlossene Datenuniversum einer Firma aufgesprengt wird um 
 * [Big Data Projekt und Einführung](https://github.com/mc-b/bigdata)
 * [Thing Speak](HTTP_POST_ThinkSpeak/)
 * [Big Data mit LAM Stack](../LAM/)
+* [Sensor Daten in MySQL DB schreiben](HTTP_POST_Sensoren/)
