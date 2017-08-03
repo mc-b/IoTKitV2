@@ -15,7 +15,7 @@ Vagrant.configure(2) do |config|
   # openHAB
   config.vm.network "forwarded_port", guest: 8080, host: 30080, auto_correct: false     
   # Zeppelin
-  # config.vm.network "forwarded_port", guest: 7080, host: 30180, auto_correct: false
+  config.vm.network "forwarded_port", guest: 7080, host: 30180, auto_correct: false
 
   # Provider-specific configuration so you can fine-tune various
   # backing providers for Vagrant. These expose provider-specific options.
@@ -62,7 +62,7 @@ SHELL
      d.pull_images "eclipse-mosquitto"
      d.pull_images "nodered/node-red-docker"
      d.pull_images "openhab/openhab:2.1.0-amd64"
-     #d.pull_images "aquila/zeppelin"
+     # d.pull_images "aquila/zeppelin"
      # Start Docker Container
      d.run "fhem", image: "marcel1691/fhem", args: "-p 8083:8083"
      d.run "apache", image: "marcel1691/apache-rest", args: "-p 8000:80"
