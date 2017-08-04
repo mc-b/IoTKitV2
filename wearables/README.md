@@ -20,7 +20,7 @@ nRF Connect App Printscreen
 **Installation**
 * mbed Programm [BLE_HeartRate ](https://developer.mbed.org/teams/Bluetooth-Low-Energy/code/BLE_HeartRate/) auf mbed Board laden.
 * nRF Connect App auf Smartphone starten und nRF Connect App starten.
-* Nach neunen Geräten scannen.
+* Nach neuen Geräten scannen.
 * `HRM1` Gerät Verbinden und Herzfrequenz auslesen. 
 
 ### Beispiele (IoTKit)
