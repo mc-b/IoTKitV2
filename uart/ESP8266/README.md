@@ -51,7 +51,33 @@ Modem mit Access Point verbinden:
 SDK Version 1.5.4 funktioniert mit mbed Library bzw. [Easy Connect](https://github.com/ARMmbed/easy-connect/) mit Patch von
 [ESP8266.cpp](https://github.com/ARMmbed/esp8266-driver/blob/master/ESP8266/ESP8266.cpp), ca. Zeile 32 auf `return 2` ändern.
 
-Alle Versuche die Firmware upzudaten, enden damit, dass das Board nicht mehr funktionsfähig ist. Deshalb ist es besser die Easy Connect Library zu patchen. 
+Beispiel Konfigurationsdatei `mbed_app.json` für ESP8266 für [Easy Connect](https://github.com/ARMmbed/easy-connect/) und IoTKit:
+
+    "config": {
+        "network-interface": {
+            "help": "options are ETHERNET,WIFI_ESP8266,MESH_LOWPAN_ND,MESH_THREAD",
+            "value": "WIFI_ESP8266"
+        },
+        "esp8266-tx": {
+            "help": "Pin used as TX (connects to ESP8266 RX)",
+            "value": "A3"
+        },
+        "esp8266-rx": {
+            "help": "Pin used as RX (connects to ESP8266 TX)",
+            "value": "A2"
+        },
+        "esp8266-debug": {
+            "value": true
+        }, 
+        "wifi-ssid": {
+            "value": "\"mcbmobile_2EX\""
+        },
+        "wifi-password": {
+            "value": "\"android%123\""
+        } 
+    ...        
+
+**Hinweis:** Alle Versuche die Firmware upzudaten, enden damit, dass das Board nicht mehr funktionsfähig ist. Deshalb ist es besser die Easy Connect Library zu patchen. 
 
 ### Links
 
