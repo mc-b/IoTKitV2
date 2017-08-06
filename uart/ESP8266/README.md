@@ -28,7 +28,9 @@ Zum Konfigurieren eignet sich am Besten der PL2303HX Converter USB To RS232 TTL 
 
 Das Rote und Schwarze Kabel wird nicht benötigt. Die Baudrate ist auf 115200 einzustellen.
 
-Es sind folgende AT Befehle verfügbar:
+**SDK Version 1.x:**
+
+Modem mit Access Point verbinden:
 
 *   **AT+RST** - Reboot Modem
 *   **AT+GMR** - Ausgabe SW Version
@@ -36,4 +38,25 @@ Es sind folgende AT Befehle verfügbar:
 *   **AT+CWJAP="mcbmobile_2EX","android%123"** - mit Access Point mcbmobile_2EX verbinden
 *   **AT+CIFSR** - Ausgabe der IP-Adresse
 
-[Verzeichnis AT Commandos.](https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/)
+**SDK Version ab 1.5.4:**
+
+Modem mit Access Point verbinden:
+
+*   **AT+RST** - Reboot Modem
+*   **AT+GMR** - Ausgabe SW Version
+*   **AT+CWMODE=1** - WLAN Modem als Client (Station) konfigurieren
+*   **AT+CWJAP_CUR="mcbmobile_2EX","android%123"** - mit Access Point mcbmobile_2EX verbinden
+*   **AT+CIFSR** - Ausgabe der IP-Adresse
+
+SDK Version 1.5.4 funktioniert mit mbed Library bzw. [Easy Connect](https://github.com/ARMmbed/easy-connect/) mit Patch von
+[ESP8266.cpp](https://github.com/ARMmbed/esp8266-driver/blob/master/ESP8266/ESP8266.cpp), ca. Zeile 32 auf `return 2` ändern.
+
+Alle Versuche die Firmware upzudaten, enden damit, dass das Board nicht mehr funktionsfähig ist. Deshalb ist es besser die Easy Connect Library zu patchen. 
+
+### Links
+
+* [Mikrocontroller.net](https://www.mikrocontroller.net/articles/ESP8266)
+* [espressif Firmware](https://github.com/espressif/ESP8266_NONOS_SDK/tree/master/bin/at)
+* [Verzeichnis AT Commandos.](https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/)
+* [Chip Hersteller](https://espressif.com/en)
+* [Auführliche Beschreibung](https://playground.boxtec.ch/doku.php/wireless/esp8266)
