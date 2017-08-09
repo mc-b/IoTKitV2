@@ -51,13 +51,17 @@ HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern 
 
 ### Beispiele (mbed OS V2.x - ca. V5.3)
 
+**HTTP Clients:**
+
 * [HTTP GET](HTTP_GET/)
 * [HTTP POST](HTTP_POST/)
 * [HTTP PUT](HTTP_PUT/)
 * [HTTP DELETE](HTTP_DELETE/)
 
-Als Serverseite kann das CGI-Script [rest](HTTP_GET/cgi-bin/rest.txt) verwendet werden. Dieses kann 
+Zu Testzwecken kann auf Serverseite das CGI-Script [rest](../LAM/05-CGIScript.md) verwendet werden. 
 
+**HTTP Server:**
+ 
 * [Einfacher HTTP Server](HTTPServerSimple/)
 
 ### Beispiele (ab mbed OS V5.x)
