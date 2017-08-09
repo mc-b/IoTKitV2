@@ -23,11 +23,15 @@ automatisch, bei der ersten Compilierung, installiert werden.
 
 Zuerst muss [Python 2.7](https://www.python.org/downloads/) installiert werden.
 
-Anschliessend, mittels dem Python Packetmanager, auf der Kommandozeile PlatformIO:
+Anschliessend Bash Umgebung starten und Repository clonen
+
+    git clone https://github.com/mc-b/IoTKitV2.git
+
+Mittels dem Python Packetmanager PlatformIO 
 
 	pip install -U platformio
 	
-Und zum Schluss der Compiler für mbed:
+und zum Schluss den Compiler für mbed Installieren
 
 	pio platform install https://github.com/platformio/platform-freescalekinetis.git#release/v1.4.0
 
@@ -42,11 +46,13 @@ Um die mbedRPC Beispiele compilieren zu können ist die Datei `platformio/packag
 	---
 	>             //{"read_u16", rpc_method_caller<unsigned short, RpcAnalogIn, &RpcAnalogIn::read_u16>},	
 
+Für Windows wird [Git Bash](https://git-scm.com/) benötigt. **Wichtig:** Git ohne Umwandlung CR/LF Option installieren, bzw. diese nicht aktiveren bei der Installation.
+
 ## Programme compilieren und uploaden
 
 Vor dem ersten Aufruf des Compilier sind die `lib` Unterverzeichnisse nach `<PlatformIO-Installation>/platformio/lib` zu kopieren.
 
-Anschliessend kann in ein beliebiges Verzeichnis gewechselt werden und der Compiler aufgerufen werden:
+Anschliessend kann in ein beliebiges Verzeichnis gewechselt werden und der Compiler aufgerufen werden, z.B.:
 
 	cd gpio/DigitalOut
 	pio run
