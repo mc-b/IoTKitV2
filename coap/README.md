@@ -42,6 +42,8 @@ Komplettes Verzeichnis: [OMNA Lightweight M2M (LWM2M) Object & Resource Registry
 *   [RFC 7252- COAP](https://tools.ietf.org/html/rfc7252)
 *   [RFC 6690 - Constrained RESTful Environments (CoRE) Link Format](https://tools.ietf.org/html/rfc6690)
 *   [RFC 5988 - Web Linking](https://tools.ietf.org/html/rfc5988)
+* 	[NodeJS Coap Server](https://github.com/mcollina/node-coap)
+* 	[NodeJS Coap CLI](https://www.npmjs.com/package/coap-cli)
 
 ### Beispiele (ab mbed OS V5.x)
 
