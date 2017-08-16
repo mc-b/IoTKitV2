@@ -11,7 +11,9 @@ Vagrant.configure(2) do |config|
   # Mosquitto
   config.vm.network "forwarded_port", guest: 1883, host: 1883, auto_correct: false
   # Node RED
-  config.vm.network "forwarded_port", guest: 1880, host: 1880, auto_correct: false  
+  config.vm.network "forwarded_port", guest: 1880, host: 1880, auto_correct: false
+  # CoAP
+  config.vm.network "forwarded_port", guest: 5683, host: 5683, protocol: "udp", auto_correct: false
   # openHAB
   config.vm.network "forwarded_port", guest: 8080, host: 30080, auto_correct: false     
   # Zeppelin
@@ -62,12 +64,14 @@ SHELL
      d.pull_images "eclipse-mosquitto"
      d.pull_images "nodered/node-red-docker"
      d.pull_images "openhab/openhab:2.1.0-amd64"
+     # Docker Builds
+     d.build_image "/vagrant/nodered-coap", args: "--tag nodered" 
      # d.pull_images "aquila/zeppelin"
      # Start Docker Container
      d.run "fhem", image: "marcel1691/fhem", args: "-p 8083:8083"
      d.run "apache", image: "marcel1691/apache-rest", args: "-p 8000:80"
      d.run "mosquitto", image: "eclipse-mosquitto", args: "-p 1883:1883"
-     d.run "nodered", image: "nodered/node-red-docker", args: "-p 1880:1880"
+     d.run "nodered", image: "nodered", args: "-p 1880:1880 -p 5683:5683/udp"
      d.run "openhab", image: "openhab/openhab:2.1.0-amd64", args: "-p 8080:8080 -v /etc/localtime:/etc/localtime:ro -v /etc/timezone:/etc/timezone:ro -v /opt/openhab/addons:/openhab/addons -v /opt/openhab/conf:/openhab/conf -v /opt/openhab/userdata:/openhab/userdata" 
      # d.run "zeppelin01", image: "aquila/zeppelin", args: "-p 7080:8080"
    end
