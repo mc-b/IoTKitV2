@@ -27,3 +27,6 @@ Die LED Strip wird an den FET D5-D7) Header (+ ist oben) angeschlossen und benö
 *   Raumbeleuchtung
 *   Dekorative Ausleuchtung von Gegenständen
 
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/RGBLEDStrip/)

@@ -85,3 +85,7 @@ Aufruf mittels curl
     </results>
 </query>
 ```
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/YahooWeather/)

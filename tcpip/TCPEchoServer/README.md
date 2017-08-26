@@ -26,3 +26,7 @@ TCP (Stream) Sockets erlauben auch eine Kommunikation zwischen mbed Board&#039;s
 *   senden und empfangen von Daten
 *   evtl. Socket herunterfahren (shutdown())
 *   Verbindung trennen, Socket schließen
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/TCPEchoServer/)

@@ -17,3 +17,7 @@ Aufruf im Browser der entsprechenden Objekt-Methode mittels:
 	http://<IP-Adresse mbed>/rpc/servo2/write 0.5
 	
 Wenn das mbed Board nicht Antwortet den Leerschlag durch + ersetzen, Bsp: `http://<IP-Adresse mbed>/rpc/servo2/write+0.5`
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/RPCHTTPServerVariable/)

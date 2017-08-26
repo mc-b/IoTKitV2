@@ -16,3 +16,7 @@ Die Pins A0 - A5 haben integrierte Analog-Digital-Umsetzer. AnalogIn macht sich 
 *   Zusammen mit einen [Potentiometer](http://de.wikipedia.org/wiki/Potentiometer) um einen Schwellenwert für ein Ereignis, z.B. für das Anschalten des Lichtes, oder um die Geschwindigkeit für einen Motor einzustellen.
 
 **Siehe auch:** [mbed Handbook AnalogIn](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/io/AnalogIn/) und [YouTube Tutorial](https://www.youtube.com/watch?v=LLXJ3KE1XZw)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/AnalogIn/)

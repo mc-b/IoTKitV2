@@ -10,3 +10,6 @@ Implementierung via I2C Bus.
 
 *   Messen von Temperatur
 
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/TMP75LowLevel/)

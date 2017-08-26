@@ -54,3 +54,6 @@ gesteuert werden und selber Aktionen auslösen.
 	curl https://maker.ifttt.com/trigger/<Event-Name>/with/key/<your key>
 ```
 
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/HallSensorAlarm/)

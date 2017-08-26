@@ -18,3 +18,7 @@ Die Kommunikation zum Wifi WLAN Controller erfolgt via UDP - [Details](http://ww
 
 *   [Philips Hue](http://www2.meethue.com/de-CH)
 *   [Osram](http://www.osram.ch/)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/teams/smdiotkit2ch/code/UDPMyLightClient/)

@@ -36,3 +36,7 @@ Abbildung XML Code im Speicher
 Die [Extensible Markup Language (engl. „erweiterbare Auszeichnungssprache“)](http://de.wikipedia.org/wiki/Extensible_Markup_Language), abgekürzt XML, ist eine Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten in Form von Textdateien. XML wird u. a. für den plattform- und implementationsunabhängigen Austausch von Daten zwischen Computersystemen eingesetzt, insbesondere über das Internet.
 
 Mittels der [spxml (Simple Plain Xml parser)](http://developer.mbed.org/users/hlipka/code/spxml/) Library können XML Strukturen geparst und anschliessend traversiert werden.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/XMLParser/)

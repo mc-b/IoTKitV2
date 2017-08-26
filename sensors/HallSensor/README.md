@@ -15,3 +15,7 @@ Der auf dem Shield verwendetete Hall Sensor (A1202LH) kann zur Lage Erfassung ei
 *   Im Auto zur Kontrolle ob der Sicherheitsgurt geschlossen ist, als Raddrehzahlsensoren, zur Erkennung des Zündzeitpunkts.
 *   Zur Geschwindigkeitsmessung, z.B. für E-Bikes.
 *   In der Kraftwerkstechnik zur Erfassung der Turbinendrehzahl.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/HallSensor/)

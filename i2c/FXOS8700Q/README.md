@@ -20,3 +20,7 @@ Der 6-Achsen-Sensor FXOS8700CQ ist fix auf dem FRDM-K64F Board mit 2 Pull-Up Wid
 *   [Erweiterte Realität (Augmented Reality)](http://de.wikipedia.org/wiki/Erweiterte_Realit%C3%A4t)
 *   Standortbezogene Service (statisch geographischen Position), siehe [K64F_eCompass_LCD Beispiel](http://developer.mbed.org/users/JimCarver/code/K64F_eCompass_LCD/)
 *   Einfacher Fitness Tracker
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/FXOS8700Q/)

@@ -31,3 +31,7 @@ Weitere Informationen und eine Ausführliche Einführung in Englisch [An Introdu
 ### Anschlussbelegung (Servo - Shield) 
 
 Der Servo wird mit 5V betrieben und kann direkt auf einen der G/V/S Header gesteckt werden. Zusätzlich existiert ein mit Servo1 und Servo2 bezeichnetes Steckerpaar. Das orange Kabel des Servo kommt auf S (Signal) bzw. zeigt nach links.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/Servo/)

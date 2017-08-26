@@ -21,3 +21,7 @@ UDP (Datagram) Sockets erlauben auch eine Kommunikation zwischen mbed Board&#039
 *   Socket erstellen
 *   An Adresse senden
 
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/users/mbed_official/code/UDPEchoServer/)
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/users/mbed_official/code/UDPEchoClient/)

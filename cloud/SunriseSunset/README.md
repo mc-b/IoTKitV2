@@ -31,3 +31,8 @@ Sunrise Sunset stellt ein API zur Verfügung, mittels dem die Sonnen Auf- und Un
    },
    "status":"OK"}
 ```
+
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/SunriseSunset/)

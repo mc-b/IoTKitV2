@@ -11,3 +11,7 @@ Mittels DigitalOut kann ein Pin zwischen 0 (0 Volt) und 1 (3.3 Volt) hin und her
 *   4 DigitalOut für die Ansteuerung von Schrittmotoren
 
 Siehe auch: [mbed Handbook DigitalOut](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/io/DigitalOut/) und [YouTube Tutorial](https://www.youtube.com/watch?v=kP_zHbC_5eM)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/DigitalOut/)

@@ -17,3 +17,6 @@ Damit Eindeutig zwischen 0 und 1 unterschieden werden kann, wird in der Regel mi
 
 **Siehe auch:** [mbed Handbook DigitalIn](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/io/DigitalIn/) und [YouTube Tutorial](https://www.youtube.com/watch?v=XmWqP8laxxk)
 
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/DigitalIn/)

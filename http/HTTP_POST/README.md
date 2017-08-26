@@ -17,3 +17,7 @@ HTTP POST schickt Daten zur weiteren Verarbeitung zum Server, diese werden **als
 #### [Serverseite](../HTTP_GET/cgi-bin/rest.txt) 
 
 Die Daten werden in die Datei post.txt auf dem IoT USB Stick geschrieben. Abrufbar mittels `http://<webserver>/data/post.txt`.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/HTTP_POST/)

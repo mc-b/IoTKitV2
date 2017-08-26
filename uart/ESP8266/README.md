@@ -86,3 +86,4 @@ Beispiel Konfigurationsdatei `mbed_app.json` für ESP8266 für [Easy Connect](ht
 * [Verzeichnis AT Commandos.](https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/)
 * [Chip Hersteller](https://espressif.com/en)
 * [Auführliche Beschreibung](https://playground.boxtec.ch/doku.php/wireless/esp8266)
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/ESP8266/)

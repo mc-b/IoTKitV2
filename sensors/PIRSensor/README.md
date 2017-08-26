@@ -42,3 +42,7 @@ Der PIR-Sensor (englisch passive infrared) ist der am häufigsten eingesetzte Ty
 ### Links 
 
 *   [Arduino HC-SR501 Motion Sensor Tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/arduino-hc-sr501-motion-sensor-tutorial/#attachment wp-att-2120/0/)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/PIRSensor/)

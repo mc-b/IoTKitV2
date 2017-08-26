@@ -14,3 +14,7 @@ Die E-Mail Übertragung basiert auf TCP Streams und kann einfach nachgebildet we
 
 *   [Liste von Mail Transfer Agents](https://de.wikipedia.org/wiki/Mail_Transfer_Agent)
 *   [Postfix Setup](https://help.ubuntu.com/community/PostfixBasicSetupHowto)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/TCPSocket_Mail/)

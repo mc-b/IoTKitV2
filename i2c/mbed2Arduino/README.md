@@ -8,3 +8,7 @@ Das mbed Board übernimmt dabei die Verbindung zum Internet und die Feinverteilu
 
 *   Verbinden von Boards, über kleinere (1 Meter) oder grössere Distanzen. Siehe [www.mikrokontroller.net](http://www.mikrocontroller.net/articles/I%C2%B2C) und [RocNet](http://wiki.rocrail.net/doku.php?id=rocnet:rocnet-prot-de)
 *   Verbindung mbed mit [Arduino](http://www.bot-thoughts.com/2011/09/i2c-mbed-reading-from-arduino.html)
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/mbed2Arduino/)

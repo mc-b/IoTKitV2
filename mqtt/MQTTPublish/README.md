@@ -17,3 +17,7 @@ Ein anderes Board oder der Mosquitto Client mosquitto_sub kann dieses Topic Abon
 		0.372290
 
 Abonieren der MQTT Publish Meldungen via [Mosquitto](https://projects.eclipse.org/projects/technology.mosquitto) Client Utility mosquitto_sub.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/MQTTPublish/)

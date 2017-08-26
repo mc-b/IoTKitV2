@@ -30,3 +30,7 @@ In unserem Beispiel werden folgende Pfade unterstützt:
 *   **/timestamp** - Zeit in Sekunden seit 01.01.1970 UTC.
 
 Alle anderen Pfade liefern einen Willkommenstext.
+
+### Links
+
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit2ch/code/HTTP_GET/)
