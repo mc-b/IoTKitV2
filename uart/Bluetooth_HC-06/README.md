@@ -68,9 +68,8 @@ AT
 AT+ROLE=1
 [OK]
 AT+INIT                        
-                        ```
-                        
-                        
+```
+
 ### Links
 
 *  [mbed OS V2 Variante](https://developer.mbed.org/teams/smdiotkit1ch/code/Bluetooth_HC-06/)
