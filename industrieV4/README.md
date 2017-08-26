@@ -19,6 +19,8 @@ Das Ziel von [Industrie 4.0](http://de.wikipedia.org/wiki/Industrie_4.0) ist die
 * In [mbed Connector](https://connector.mbed.com/): `Connected Devices` überprüfen, es muss 1 Gerät sichtbar sein.
 * In der `API Console` Werte mittels UI abfragen.  
 
+Ein Alternatives Beispiel ist [simple-mbed-client-example/](https://developer.mbed.org/teams/sandbox/code/simple-mbed-client-example/). Das Vorgehen ist das Gleiche bis auf den Import.
+
 ### Links
 
 * [Vortrag Industrie V4.0 und Open Source](http://www.hightechzentrum.ch/images/seiteninhalte/veranstaltungen/2016/normen_standards/Hightech_Zentrum_Aargau_Normen_Standards_CHopen_Bernet.pdf)
