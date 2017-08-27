@@ -12,8 +12,8 @@ Auf dem SMD Shield befindet sich oben rechts ein Steckplatz, wo das WLAN Modem e
 
 Dazu gibt es zwei Möglichkeiten:
 
-*   Verbinden der Stecker, neben dem WLAN Modem über Kreuz. Das Modem ist mit den Pin A2 und A3 (UART3) verbunden.
-*   Verbinden der Stecker (oben) mit dem Serial Stecker (obere zwei Pin&#039;s). Das Modem ist mit den Pin D0 und D1 (USBTX, USBRX))) verbunden.
+*   Einstecken auf dem IoTKit Shield in der Mitte oben. Das Modem ist mit den Pin A2 und A3 (UART3) verbunden.
+*   Manuelles verbinden der Stecker (oben) mit dem Serial Stecker (obere zwei Pin&#039;s). Das Modem ist mit den Pin D0 und D1 (USBTX, USBRX))) verbunden.
 
 Weitere nützliche Informationen zum ESP8266 sind in diesem [Blog](https://orxor.wordpress.com/2015/01/30/esp8266-intro/) zu finden. Ausserdem existiert eine [ESP8266 Gruppe](https://developer.mbed.org/teams/ESP8266/).
 
