@@ -68,12 +68,12 @@ SHELL
      d.build_image "/vagrant/nodered-coap", args: "--tag nodered" 
      # d.pull_images "aquila/zeppelin"
      # Start Docker Container
-     d.run "fhem", image: "marcel1691/fhem", args: "-p 8083:8083"
-     d.run "apache", image: "marcel1691/apache-rest", args: "-p 8000:80"
-     d.run "mosquitto", image: "eclipse-mosquitto", args: "-p 1883:1883"
-     d.run "nodered", image: "nodered", args: "-p 1880:1880 -p 5683:5683/udp"
-     d.run "openhab", image: "openhab/openhab:2.1.0-amd64", args: "-p 8080:8080 -v /etc/localtime:/etc/localtime:ro -v /etc/timezone:/etc/timezone:ro -v /opt/openhab/addons:/openhab/addons -v /opt/openhab/conf:/openhab/conf -v /opt/openhab/userdata:/openhab/userdata" 
-     # d.run "zeppelin01", image: "aquila/zeppelin", args: "-p 7080:8080"
+     d.run "fhem", image: "marcel1691/fhem", args: "-p 8083:8083 --restart=always"
+     d.run "apache", image: "marcel1691/apache-rest", args: "-p 8000:80 --restart=always"
+     d.run "mosquitto", image: "eclipse-mosquitto", args: "-p 1883:1883 --restart=always"
+     d.run "nodered", image: "nodered", args: "-p 1880:1880 -p 5683:5683/udp --restart=always"
+     d.run "openhab", image: "openhab/openhab:2.1.0-amd64", args: "-p 8080:8080 -v /etc/localtime:/etc/localtime:ro -v /etc/timezone:/etc/timezone:ro -v /opt/openhab/addons:/openhab/addons -v /opt/openhab/conf:/openhab/conf -v /opt/openhab/userdata:/openhab/userdata --restart=always" 
+     # d.run "zeppelin01", image: "aquila/zeppelin", args: "-p 7080:8080 --restart=always"
    end
    
 end
