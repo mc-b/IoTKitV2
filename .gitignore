@@ -1,3 +1,9 @@
 /errors.log
 /make.sh
 /TODO.md
+.cproject
+.project
+readme.txt
+.travis.yml
+language.settings.xml
+PlatformIO Debugger.launch
