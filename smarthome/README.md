@@ -16,3 +16,8 @@ Unter diesen Begriff fällt sowohl die Vernetzung von Haustechnik und Haushaltsg
 
 * [FHEM](02-FHEM.md)
 * [openHAB](10-openHAB.md) 
+
+### Links
+
+* [Qivicon System basierend auf OpenHAB](https://www.qivicon.com/de/)
+
