@@ -36,3 +36,4 @@ nRF Connect App Printscreen
 ### Links
 
 * [mbed Bluetooth Team](https://developer.mbed.org/teams/Bluetooth-Low-Energy/)
+* [Introduction to Bluetooth Low Energy](https://www.nxp.com/video/lesson-3-introduction-to-bluetooth-low-energy:LESSON-3-KW41Z-WIRELESS-LAB)
