@@ -13,6 +13,5 @@ Unter einer Funktion (function, in anderen Programmiersprachen auch Prozedur ode
     }  
 
     int a = f(5);   // Aufruf einer Funktion                  
-                    ```
 
 [Weitere Informationen](http://de.wikibooks.org/wiki/C%2B%2B-Programmierung/_Weitere_Grundelemente/_Prozeduren_und_Funktionen)
