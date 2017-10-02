@@ -9,5 +9,5 @@ Ein Ticker ist ein Mechanismus, ein laufendes Programm zu einem Zeitpunkt zu sto
 
 ### Links
 
-* [mbed OS V2 Variante](http://developer.mbed.org/teams/smdiotkitch/code/Ticker/) {#beispiel-programm}
+* [mbed OS V2 Variante](http://developer.mbed.org/teams/smdiotkitch/code/Ticker/) 
 * [mbed Handbook Ticker](https://docs.mbed.com/docs/mbed-os-api-reference/en/latest/APIs/tasks/Ticker/)
