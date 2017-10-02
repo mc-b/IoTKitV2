@@ -5,9 +5,9 @@ Zeit
 
 - - -
 
-Zeit ist eine wichtige Komponenten in Computersystemen.
+Zeit ist eine wichtige Komponente in Computersystemen.
 
-Sei es um Aktionen zu einer bestimmten Zeit auszulösen oder auch nur um Zeitkritische Abschnitte in Programmen zu finden.
+Sei es um Aktionen zu einer bestimmten Zeit auszulösen oder auch nur um Zeitkritische Abschnitte im Programmen zu finden.
 
 ### Beispiele
 
