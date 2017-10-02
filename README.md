@@ -10,7 +10,8 @@ IoTKit V2 Beispiele und Dokumentation
 ## Grundlagen
 
 * [Hardware](hw/)
-* [Software, Installation und kleine C/C++ Einführung](sw/)
+* [Software und Installation](sw/)
+* [Kleine C/C++ Einführung](ccpp/)
 * [GPIO](gpio/)
 * [Sensoren](sensors/)
 * [Aktoren](actors/)
