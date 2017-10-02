@@ -16,6 +16,7 @@ IoTKit V2 Beispiele und Dokumentation
 * [Sensoren](sensors/)
 * [Aktoren](actors/)
 * [User Interface](ui/)
+* [Zeit](time/)
 
 ## Bus Systeme
 
