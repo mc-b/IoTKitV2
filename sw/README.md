@@ -13,7 +13,7 @@ Es enthält alle Funktionen, die benötigt werden, um ein angeschlossenes Produk
 
 [mbed](http://os.mbed.org) stellt eine Compiler Umgebung, in der Cloud, zur Verfügung. Ein detailierte Einführung ist [hier](https://docs.mbed.com/docs/mbed-os-handbook/en/latest/dev_tools/online_comp/). 
 
-Statt die Programme aus diesem Repository zu verwenden, ist der jeweilige Links [mbed Compiler](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/DigitalOut/) unten auf der Seite zu verwenden. 
+Statt die Programme aus diesem Repository zu verwenden, ist der Link [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkitch/code/DigitalOut/) unten auf jeweiligen Beispielseite zu verwenden. Falls der Import  in den Cloud Compiler nicht automatisch startet, ist der Button "Import into Compiler" zu drücken. 
 
 Wird diese Variante bevorzugt, muss lokal nur ein Terminalprogramm installiert werden. Für die Einrichtung siehe [PC Configuration](https://developer.mbed.org/platforms/FRDM-K64F/#pc-configuration).
 
