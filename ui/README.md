@@ -12,7 +12,7 @@ Diese kann durch eine LED Anzeige mit Ziffern erfolgen oder einfach durch das Bl
 
 ### Beispiele
 
-* [LED](LED.md)
+* [LED](LEDUI/)
 * [OLED Display](../i2c/Sensoren/)
 * [DOT LED Matrix](../spi/DotLEDMatrix/)
 

@@ -1,6 +1,6 @@
 ## LED
 
-| ![](../images/frdm_kl25z_error.gif) [KL25Z](https://developer.mbed.org/platforms/KL25Z/) | ![](../images/m3_error.gif) [LPC1768](https://developer.mbed.org/platforms/mbed-LPC1768/) |
+| ![](../../images/frdm_kl25z_error.gif) [KL25Z](https://developer.mbed.org/platforms/KL25Z/) | ![](../../images/m3_error.gif) [LPC1768](https://developer.mbed.org/platforms/mbed-LPC1768/) |
 | --- | --- |
 
 - - -
