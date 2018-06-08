@@ -28,4 +28,4 @@ Ein bipolarer Schrittmotor kann mittels der H-Brücke angesprochen werden, siehe
 
 ### Links
 
-*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/Stepper/)
+*  [mbed OS V2 Variante](https://developer.mbed.org/compiler/#import:/teams/smdiotkit1ch/code/Schrittmotor/)
